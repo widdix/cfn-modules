@@ -1,2 +1,2 @@
 # cfn-modules
-Easy-going CloudFormation: Modular, production ready, open source.
+This repository was moved to its own [GitHub organization](https://github.com/cfn-modules).
